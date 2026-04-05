@@ -11,6 +11,9 @@ A full-stack blog platform where **PostgreSQL** is the system of record, **Apach
 ### Home / Feed
 ![Blogapp Home Page](blogapp-homepage.png)
 
+### Blogs
+![Blogapp Blogs Page](blogapp-blogs-page.png)
+
 ### Search
 ![Blogapp Search Page](blogapp-search-page.png)
 
